@@ -1,2 +1,1 @@
-# PythonFilter
-Image color filtering with Python
+# Python scripts written by Matt and Brandon
